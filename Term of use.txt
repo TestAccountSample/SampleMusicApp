@@ -1,0 +1,20 @@
+These Terms of Use apply to the mobile application named "SampleMusicApp" (the "App").
+This app is only to check and test possibilies of use and check full capabilities of Deezer SDK for further prospect usage. 
+It will be not published in App Store or Google Play. It will be not used to earn profit.
+
+IMPORTANT NOTICE
+
+1.1 Please read these Terms carefully before downloading, installing or using the App. 
+By downloading, installing, accessing, browsing or using the App, you accept and agree to these Terms which bind you legally. 
+If you do not agree to these Terms you are not permitted to use the App and you must immediately cease downloading, installing or using the App.
+
+1.2 The content provided in the App is intended for general informational purposes only.
+Companies and individuals should not rely on the information provided in the App for the prevention or mitigation of risks or as an explanation of coverage or benefits under an insurance policy. 
+
+1.3 RESTRICTIONS 
+You agree: 
+(a) not to copy, reproduce, republish, reuse, upload, post, transmit or distribute any content presented in or provided by the App, including without limitation for public or commercial purposes, including any text, images, audio and video;
+(b) not to rent, lease, sub-license, loan, distribute, time-share, or translate the App in any way; 
+(c) not to make alterations to, or modifications of, the whole or any part of the App, or permit the App or any part of it to be combined with, or become incorporated in, any other programs;
+(d) not to disassemble, decompile, reverse-engineer or create derivative works based on the whole or any part of the App; 
+(e) not to sell, resell, or exploit the App in whole or in part (including object and source code), in any form to any person; 
